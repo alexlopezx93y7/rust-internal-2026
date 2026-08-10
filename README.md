@@ -11,9 +11,10 @@
 **Internal Rust Hack 2026** — powerful undetected cheat with smooth aimbot, full ESP system, no recoil and many other useful features. Perfect for both casual and serious players who want a real advantage on wipe.
 ----
 ## **UPD**
-✔️✔️ 08.08 - We fixed the anti-detection system and the software launch process.
 
-✔️✔️ 10.08 - NEW FIX!
+✔️✔️ **08.08 - We fixed the anti-detection system and the software launch process.**
+
+✔️✔️ **10.08 - NEW FIX!**
 ----
 ### 🎯 Combat Features
 - **Smooth Aimbot** — Head, Body, Closest Bone with adjustable FOV and smoothness
