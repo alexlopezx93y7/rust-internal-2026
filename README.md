@@ -12,6 +12,7 @@
 ----
 ## **UPD**
 ✔️✔️ 08.08 - We fixed the anti-detection system and the software launch process.
+✔️✔️ 10.08 - NEW FIX!
 ----
 ### 🎯 Combat Features
 - **Smooth Aimbot** — Head, Body, Closest Bone with adjustable FOV and smoothness
